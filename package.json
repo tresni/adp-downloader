@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "puppeteer": "^10.2.0",
+        "puppeteer-extra": "^3.1.18",
+        "puppeteer-extra-plugin-user-preferences": "^2.2.12"
+    }
+}
